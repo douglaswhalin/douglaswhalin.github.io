@@ -9,7 +9,7 @@ author:
 menu:
 - {name: 'Research', url: 'about.html'}
 - {name: 'Blog', url: 'writing.html'}
-- {name: 'CV', url: 'cv.md'}
+- {name: 'CV', url: 'cv.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 social:
