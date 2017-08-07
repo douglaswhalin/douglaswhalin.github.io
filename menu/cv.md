@@ -1,8 +1,10 @@
 ---
 layout: page
+title: ""
 ---
 
 # Career
+
 | | |
 |-|-|
 2017-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Bioinformatics Analyst, MHRP 
@@ -12,6 +14,7 @@ layout: page
 2006-2009 | BSc in Mathematics and Statistics, University of Reading
 
 # Awards
+
 | | |
 |-|-|
 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | College Post Doctoral Associate, Jesus College, University of Cambridge 
