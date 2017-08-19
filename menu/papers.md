@@ -8,4 +8,4 @@ title: Publications
 
 <h1>Reviews</h1>
 '[J.E. Cooper and M. Decker, Life and Society in Byzantine Cappadocia (Basingstoke: Palgrave Macmillan, 2012)]({{ site.url }}/assets/pdf/BYZ_38_2_REVIEWS_1.pdf)', Byzantine and Modern Greek Studies Vol. 38 No. 2 (2014) 285–293.
-'[Peter Bell: Social Conflict in the Age of Justinian: Its Nature, Management, and Mediation (Oxford: Oxford University Press, 2013)]({{ http://www.history.ac.uk/reviews/review/1660 }}),' *Reviews in History*, 2014 no. 1660.
+<br>'[Peter Bell: Social Conflict in the Age of Justinian: Its Nature, Management, and Mediation (Oxford: Oxford University Press, 2013)]({{ http://www.history.ac.uk/reviews/review/1660 }}),' *Reviews in History*, 2014 no. 1660.
