@@ -5,19 +5,20 @@ title: ""
 
 # Career
 
-2017-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Bioinformatics Analyst, MHRP 
-2013-2016 | Research associate in Viral Phylodynamics, Department of Veterinary Medicine, University of Cambridge
-2010-2013 | DPhil in Clinical Medicine, Nuffield Department of Medicine, University of Oxford
-2009-2010 | MSc in Biometry, University of Reading 
-2006-2009 | BSc in Mathematics and Statistics, University of Reading
+2017-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Adjunct Lecturer, George Mason University, VA
+2017-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Adjunct Lecturer, University of Maryland Baltimore County, MD
+2013-2016 | Graduate Teaching Assistant, University of Cambridge
 
+# Education
+
+2012-2016 | PhD in History, Queens' College, University of Cambridge
+2010-2012 | MPhil in Late Antique and Byzantine Studies, St. Cross College, Univrsity of Oxford 
+2003-2007 | BA double-major in English and History, Lawrence University, WI
 
 # Awards
 
-2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | College Post Doctoral Associate, Jesus College, University of Cambridge 
-2014 | Wellcome Trust ISSF public engagement award, University of Cambridge 
-2009 | NIHR Studentship for MSc in Biometry 
-2006-2009 | Undergraduate Scholarship, University of Reading  
-
-
-Full publication list available on [Google Scholar](https://scholar.google.com/citations?user=YwTHmHYAAAAJ&hl=en).
+2012-2016 | Research and Travel Grants, Queens' College, University of Cambridge 
+2013, 2014 | CRASSH Seminar Grants, Centre for Research in Arts, Social Sciences and Humanities, University of Cambridge 
+2012 | Mary Blaschko Scholarship, Linacre College, University of Oxford [Declined] 
+2007 | Herman Erb Prize in German, Lawrence University, WI 
+2003-2007 | Dean's List Scholarship, Lawrence University, WI  
