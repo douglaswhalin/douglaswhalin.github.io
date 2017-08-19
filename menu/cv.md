@@ -11,7 +11,7 @@ title: ""
 
 # Education
 
-2012-2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | PhD in History, Queens' College, University of Cambridge
+2012-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | PhD in History, Queens' College, University of Cambridge
 <br> | Title: *Roman Identity in Byzantium, AD 650-850.*
 <br> | Supervisor: Dr. Peter Sarris
 2010-2012 | MPhil in Late Antique and Byzantine Studies, St. Cross College, Univrsity of Oxford 
