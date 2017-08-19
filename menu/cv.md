@@ -10,6 +10,9 @@ title: ""
 2013-2016 | Graduate Teaching Assistant, University of Cambridge
 
 # Education
+2012-2016 | nbsp;nbsp; | blahblahblah
+
+# Education
 
 2012-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | PhD in History, Queens' College, University of Cambridge
 <br> | Title: *Roman Identity in Byzantium, AD 650-850.*
