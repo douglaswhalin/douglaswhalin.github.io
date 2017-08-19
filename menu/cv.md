@@ -11,7 +11,7 @@ title: ""
 
 # Education
 
-2012-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | PhD in History, Queens' College, University of Cambridge
+2012-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | PhD in History, Queens' College, University of Cambridge
 2010-2012 | MPhil in Late Antique and Byzantine Studies, St. Cross College, Univrsity of Oxford 
 2003-2007 | BA double-major in English and History, Lawrence University, WI
 
