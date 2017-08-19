@@ -10,7 +10,7 @@ title: ""
 2013-2016 | Graduate Teaching Assistant, University of Cambridge
 
 # Education
-2012-2016 | nbsp;nbsp; | blahblahblah
+2012-2016 | &nbsp;&nbsp; | blahblahblah
 
 # Education
 
