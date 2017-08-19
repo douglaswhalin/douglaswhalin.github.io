@@ -17,7 +17,7 @@ title: ""
 
 # Awards
 
-2012-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Research and Travel Grants, Queens' College, University of Cambridge 
+2012-2016 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Research and Travel Grants, Queens' College, University of Cambridge 
 2013, 2014 | CRASSH Seminar Grants, Centre for Research in Arts, Social Sciences and Humanities, University of Cambridge 
 2012 | Mary Blaschko Scholarship, Linacre College, University of Oxford [Declined] 
 2007 | Herman Erb Prize in German, Lawrence University, WI 
