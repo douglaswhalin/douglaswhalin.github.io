@@ -6,7 +6,7 @@ title: ""
 # Career
 
 2017-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Adjunct Lecturer, George Mason University
-2017- | Adjunct Lecturer, University of Maryland Baltimore County
+Fall 2017 | Adjunct Lecturer, University of Maryland Baltimore County
 2013-2016 | Graduate Teaching Assistant, University of Cambridge
 2012-2016 | PhD in History, Queens' College, University of Cambridge
 <br> | Title: *Roman Identity in Byzantium, AD 650-850.*
