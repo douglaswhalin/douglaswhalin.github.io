@@ -31,7 +31,7 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%; vertical-align":top>2017—</td>
+    <td style="width:20%; vertical-align:top">2017—</td>
     <td style="width:80%">Adjunct Lecturer, George Mason University</td>
   </tr>
   <tr>
