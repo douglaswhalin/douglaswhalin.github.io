@@ -7,8 +7,8 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td>2012—2016</td>
-    <td>PhD in History, Queens' College, University of Cambridge</td>
+    <td style="width:20%">2012—2016</td>
+    <td style="width:80%">PhD in History, Queens' College, University of Cambridge</td>
   </tr>
   <tr>
     <td></td>
@@ -31,8 +31,8 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td>2017—</td>
-    <td>Adjunct Lecturer, George Mason University</td>
+    <td style="width:20%">2017—</td>
+    <td style="width:80%">Adjunct Lecturer, George Mason University</td>
   </tr>
   <tr>
     <td>2018—19</td>
@@ -51,8 +51,8 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td>2019</td>
-    <td>Dumbarton Oaks/HMML Coptic Summer Fellowship</td>
+    <td style="width:20%">2019</td>
+    <td style="width:80%">Dumbarton Oaks/HMML Coptic Summer Fellowship</td>
   </tr>
   <tr>
     <td>2012—16</td>
