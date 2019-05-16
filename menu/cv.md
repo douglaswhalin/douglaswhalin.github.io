@@ -25,7 +25,6 @@ title: ""
   <tr>
     <td>2003—2007</td>
     <td>BA double-major in English and History, Lawrence University</td>
-  </tr>
   </tr></table> 
 
 # Career
@@ -46,7 +45,6 @@ title: ""
   <tr>
     <td>2013—2016</td>
     <td>Graduate Teaching Assistant, University of Cambridge</td>
-  </tr>
   </tr></table> 
 
 # Awards
@@ -75,5 +73,4 @@ title: ""
   <tr>
     <td>2003—07</td>
     <td>Dean's List Scholarship, Lawrence University</td>
-  </tr>
   </tr></table> 
