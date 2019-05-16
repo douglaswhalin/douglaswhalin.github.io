@@ -12,7 +12,7 @@ title: ""
   </tr>
   <tr>
     <td></td>
-    <td>Title: *Roman Identity in Byzantium, AD 650-850.*</td>
+    <td>Title: <i>Roman Identity in Byzantium, AD 650-850</i>.</td>
   </tr>
   <tr>
     <td></td>
