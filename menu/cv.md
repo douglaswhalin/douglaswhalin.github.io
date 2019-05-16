@@ -3,22 +3,77 @@ layout: page
 title: ""
 ---
 
+# Education
+
+<table style="width:100%">
+  <tr>
+    <td>2012—2016</td>
+    <td>PhD in History, Queens' College, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Title: *Roman Identity in Byzantium, AD 650-850.*</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Supervisor: Dr Peter Sarris</td>
+  </tr>
+  <tr>
+    <td>2010—2012</td>
+    <td>MPhil in Late Antique and Byzantine Studies, St. Cross College, Univrsity of Oxford</td>
+  </tr>
+  <tr>
+    <td>2003—2007</td>
+    <td>BA double-major in English and History, Lawrence University</td>
+  </tr>
+  </tr></table> 
+
 # Career
 
-2017— &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Adjunct Lecturer, George Mason University
-Fall 2017 | Adjunct Lecturer, University of Maryland Baltimore County
-2013—2016 | Graduate Teaching Assistant, University of Cambridge
-2012—2016 | PhD in History, Queens' College, University of Cambridge
-<br> | Title: *Roman Identity in Byzantium, AD 650-850.*
-<br> | Supervisor: Dr. Peter Sarris
-2010—2012 | MPhil in Late Antique and Byzantine Studies, St. Cross College, Univrsity of Oxford 
-2003—2007 | BA double-major in English and History, Lawrence University
+<table style="width:100%">
+  <tr>
+    <td>2017—</td>
+    <td>Adjunct Lecturer, George Mason University</td>
+  </tr>
+  <tr>
+    <td>2018—19</td>
+    <td>Webmaster, 2019 SPBS Spring Symposium, Cambridge</td>
+  </tr>
+  <tr>
+    <td>Fall 2017</td>
+    <td>Adjunct Lecturer, University of Maryland Baltimore County</td>
+  </tr>
+  <tr>
+    <td>2013—2016</td>
+    <td>Graduate Teaching Assistant, University of Cambridge</td>
+  </tr>
+  </tr></table> 
 
 # Awards
 
-2019 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Dumbarton Oaks/HMML Coptic Summer Fellowship
-2012—16 | Research and Travel Grants, Queens' College, University of Cambridge 
-2013, 2014 | CRASSH Seminar Grants, Centre for Research in Arts, Social Sciences and Humanities, University of Cambridge 
-2012 | Mary Blaschko Scholarship, Linacre College, University of Oxford [Declined] 
-2007 | Herman Erb Prize in German, Lawrence University
-2003—07 | Dean's List Scholarship, Lawrence University
+<table style="width:100%">
+  <tr>
+    <td>2019</td>
+    <td>Dumbarton Oaks/HMML Coptic Summer Fellowship</td>
+  </tr>
+  <tr>
+    <td>2012—16</td>
+    <td>Research and Travel Grants, Queens' College, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td>2013, 2014</td>
+    <td>CRASSH Seminar Grants, Centre for Research in Arts, Social Sciences and Humanities, University of Cambridge</td>
+  </tr>
+  <tr>
+    <td>2012</td>
+    <td>Mary Blaschko Scholarship, Linacre College, University of Oxford [Declined]</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>Herman Erb Prize in German, Lawrence University</td>
+  </tr>
+  <tr>
+    <td>2003—07</td>
+    <td>Dean's List Scholarship, Lawrence University</td>
+  </tr>
+  </tr></table> 
