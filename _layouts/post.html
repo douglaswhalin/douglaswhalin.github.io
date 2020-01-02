@@ -6,14 +6,14 @@ layout: default
   {{ page.title }}
 </h1>
 
-{% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
+{% if page.image.feature %}
+  <img src="{{ site.github.url }}/assets/img/{{ page.image.feature }}">
 {% endif %}
 
 {{ content }}
 
 <span class="post-date">
-  {{ site.data.settings.post_date_prefix }}
+
   {% assign d = page.date | date: "%-d"  %}
   {{ page.date | date: "%B" }}
   {% case d %}
@@ -26,7 +26,7 @@ layout: default
   {% if page.author %}
     {{ page.author }}
   {% else %}
-    {{ site.author }}
+    {{ site.data.settings.author.name }}
   {% endif %}
 </span>
 
