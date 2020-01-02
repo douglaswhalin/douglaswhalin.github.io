@@ -2,7 +2,7 @@
 layout: post
 title: "New article in *Byzantinische Zeitschrift*"
 author: "DC Whalin"
-tags: [abstact]
+tags: [abstract]
 ---
 
 ‘A note reconsidering the message of Heraclius’ silver hexagram, circa AD 615’ has appeared in the Spring 2019 issue of *Byzantinische Zeitschrift*. The short article identifies a previously unidentified connection between sources, which provides an important correction to our understanding of the reign of Heraclius (AD 610-41). The abstract reads as follows:
