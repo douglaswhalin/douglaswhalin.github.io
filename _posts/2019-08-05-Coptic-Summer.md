@@ -8,7 +8,7 @@ image: HMML1.jpg
 
 From 8 July to 2 August 2019 I attended the Coptic language course hosted at the [Hill Manuscript Museum and Library](http://hmml.org/) at St John’s University, Minnesota. The course was generously supported by [Dumbarton Oaks Research Library](https://www.doaks.org/research/byzantine). While they have offered a Syriac summer language program for several years now, the inclusion of a second language course is relatively new.
 
-image: HMML2.jpg
+![The 2019 Syriac and Coptic summer school](http://douglaswhalin.github.io/assets/img/HMML2.jpg)
 
 The Coptic course was jointly taught by Prof Victor Ghica and Dr [Alin Suciu](https://alinsuciu.com/). Meeting over four weeks, Victor covered an intensive introduction to the grammar in the mornings, while in the afternoon Alin provided broader introduction to Coptic studies. This notably included practical labs introducing key online resources including the [Coptic Scriptorium](https://copticscriptorium.org/) and the [Corpus dei Manoscritti Copti Letterari](http://www.cmcl.it/). Other practical labs focused on reading and transcribing palaeography, during which we had the opportunity to take a hands-on look at some of the HMML’s physical collections.
 
