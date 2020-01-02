@@ -1,5 +1,5 @@
 title:  Douglas Whalin
-tagline:  Late Antique Historian
+tagline:  late antique historian
 author:
   name: Douglas Whalin
   
@@ -7,6 +7,7 @@ author:
 
 menu:
 - {name: 'Research', url: 'about.html'}
+- {name: 'Posts', url: 'posts.html'}
 - {name: 'Publications', url: 'papers.html'}
 - {name: 'CV', url: 'cv.html'}
 - {name: 'Contact', url: 'contact.html'}
@@ -15,6 +16,15 @@ social:
 - {icon: 'github', link: 'https://www.github.com/douglaswhalin'}
 - {icon: 'graduation-cap', link: 'https://cambridge.academia.edu/DouglasWhalin'}
 
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
 
+sharing_button_prompt: 'Share this post:'
+
+related_posts: 'Other posts you might like:'
+
+#post_date_prefix: 'Written on'
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
