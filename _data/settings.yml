@@ -6,7 +6,7 @@ author:
 #google-ID: 'UA-80213386-1'
 
 menu:
-- {name: 'Blog', url: 'writing.html'}
+- {name: 'Research', url: 'about.html'}
 - {name: 'Publications', url: 'papers.html'}
 - {name: 'CV', url: 'cv.html'}
 
