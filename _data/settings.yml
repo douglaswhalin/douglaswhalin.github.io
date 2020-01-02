@@ -9,7 +9,7 @@ menu:
 - {name: 'Research', url: 'about.html'}
 - {name: 'Publications', url: 'papers.html'}
 - {name: 'CV', url: 'cv.html'}
-- {name: 'Blog', url: 'writing.html'}
+- {name: 'Blog', url: 'blog.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/douglaswhalin'}
