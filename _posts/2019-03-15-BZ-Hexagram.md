@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New article in *Byzantinische Zeitschrift*"
+title: "New article in <i>Byzantinische Zeitschrift</i>"
 author: "DC Whalin"
 tags: [abstract]
 ---
