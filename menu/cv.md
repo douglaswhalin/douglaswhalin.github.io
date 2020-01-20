@@ -31,12 +31,16 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%; vertical-align:top">2017—</td>
-    <td style="width:80%">Adjunct Lecturer, George Mason University</td>
+    <td style= "vertical-align:top">Feb-Apr 2020</td>
+    <td>Fellow, Center for Advanced Studies "Migration and Mobility in Late Antiquity and the Early Middle Ages," University of Tübingen</td>
   </tr>
   <tr>
-    <td style= "vertical-align:top">2018—19</td>
+    <td style= "vertical-align:top">2018—2019</td>
     <td>Webmaster, 2019 SPBS Spring Symposium, Cambridge</td>
+  </tr>
+  <tr>
+    <td style="width:20%; vertical-align:top">2017—2019</td>
+    <td style="width:80%">Adjunct Lecturer, George Mason University</td>
   </tr>
   <tr>
     <td style= "vertical-align:top">Fall 2017</td>
@@ -50,6 +54,10 @@ title: ""
 # Awards
 
 <table style="width:100%">
+  <tr>
+    <td style="width:20%; vertical-align:top">2020</td>
+    <td style="width:80%">German Research Foundation (DFG) Stipendiary Grant</td>
+  </tr>
   <tr>
     <td style="width:20%; vertical-align:top">2019</td>
     <td style="width:80%">Dumbarton Oaks/HMML Coptic Summer Fellowship</td>
