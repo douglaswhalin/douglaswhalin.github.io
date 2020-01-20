@@ -31,10 +31,6 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td style= "vertical-align:top">Feb-Apr 2020</td>
-    <td>Fellow, Center for Advanced Studies "Migration and Mobility in Late Antiquity and the Early Middle Ages," University of Tübingen</td>
-  </tr>
-  <tr>
     <td style= "vertical-align:top">2018—2019</td>
     <td>Webmaster, 2019 SPBS Spring Symposium, Cambridge</td>
   </tr>
