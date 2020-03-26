@@ -21,8 +21,8 @@ The **Digital Analysis of Syriac Handwriting** (DASH) is a project hosted by Sta
 The **Hill Museum & Manuscript Library**’s online coursebook breaks down Syriac paleography in ten lessons, each of which is well-illustrated with examples from their digital collections. Covers the entire history of Syriac paleography through to the 21st century, as well as a lesson on Garshuni (Arabic text written with Syriac characters). Worth noting that they have built lessons for Latin and Arabic book hands as well. The rest of [vHMML](https://www.vhmml.org/), one of the world’s largest digital manuscript libraries, has a robust set of search tools once you get used to the site’s idiosyncratic controls. Note that access to their virtual reading room requires (free) registration.
 
 ## General Decipherment
-### [Syri.ac](syri.ac) </br>
+### [Syri.ac](syri.ac)
 A site aiming to provide a comprehensive annotated bibliography of all online Syriac resources. I found its search tools useful to trying to identify works of literature if you only have partial information to hand – an author’s name or an incipit which doesn’t seem to match what you expected.
 
-### [J. Payne Smith's *Compendious Syriac Dictionary* online](http://dukhrana.com/lexicon/PayneSmith/) </br>
+### [J. Payne Smith's *Compendious Syriac Dictionary* online](http://dukhrana.com/lexicon/PayneSmith/)
 Likely on of the first online resources anyone learning Syriac will have found, the searchable version available from **Dukhrana Biblical Research** is still very useful tool for checking whether that string of marks you *think* you've deciphered actually forms a word or not.
