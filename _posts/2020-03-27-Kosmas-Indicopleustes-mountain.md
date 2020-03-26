@@ -21,7 +21,7 @@ The struggle to reconcile Christian and pre-Christian traditions and knowledge o
 >The whole world is a square, as I wrote previously. The highest part of its middle and the summit, namely the north and the western part, we have marked here, being drawn out exactly so. The middle is situated here with the ocean all around, and around that in turn an opposite shore, with the stars encircling it. The cone is able to produce a shadow toward those outside it, and thus, according to this scheme, it is able to produce the eclipses of the moon and night and day. What’s more, divine scripture attests this truth, saying: ‘The sun rises and the sun sets, and hurries back to where it rises. The wind blows to the south and turns to the north; round and round it goes, ever returning on its course,’ [Eccl. 1, 5-6] the air, as it were, circling back into the place where it returns. Kosmas Indicopleustes, *Christian Topography*, IV.11. Ed. Wolska-Conus 1968, 550-551. Trans. by me.
 
 ![Kosmas' world tabernacle](http://douglaswhalin.github.io/assets/img/Kosmas3.png) </br>
-*Public domain | Wikimedia Commons. Two versions of Kosmas' tabernacle. The stylized coast of the Mediterranean at the foot of the word-mountain can be seen in both, although it is easier to make out in the black-and-white version. The colour illustration allws us to more clearly make out the sun, labeled **ἥλιος**, which is depicted twice in the sky behind the mountain.*
+*Public domain | Wikimedia Commons. Two versions of Kosmas' tabernacle. The stylized coast of the Mediterranean at the foot of the word-mountain can be seen in both, although it is easier to make out in the black-and-white version. The colour illustration, from Vat.Gr.699, allows us to more clearly make out the sun, labelled **ἥλιος**, which is depicted twice in the sky behind the mountain.*
 
 Illustrations like this one accompany Kosmas’ work in manuscripts, such as the ninth-century example digitised by the Vatican Library [Vat.Gr.699](https://digi.vatlib.it/view/MSS_Vat.gr.699), and certainly help make sense of what he was attempting to describe. Kosmas based his model [*schema*] on a devout and strict literalist reading of scripture, all of creation was literally a mountain, with days and nights created by the sun being obscured by its summit. 
 
@@ -38,4 +38,6 @@ Maybe not so much, it turns out. In the first place, the widespread rejection of
 - Kosmas Indicopleustes (1968) *Topográphie chrétienne*. Edited by W. Wolska-Conus. Paris: Éditions du Cerf (Sources chrétiennes; 141).
 - Lindberg, D. C. (2007) *The beginnings of western science: the European scientific tradition in philosophical, religious, and institutional context, prehistory to A.D. 1450*. 2nd ed. Chicago: University of Chicago Press.
 - Villey, É. (2014) *Les sciences en syriaque*. Paris: Geuthner (Études syriaques; 11).
+
+Images from https://commons.wikimedia.org/wiki/Category:Cosmas_Indicopleustes under [Creative Commons Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
 
