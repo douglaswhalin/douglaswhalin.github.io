@@ -61,7 +61,7 @@ title: ""
 
 <table style="width:100%">
   <tr>
-    <td style="width:20%; vertical-align:top">2020</td>
+    <td style="width:20%; vertical-align:top">2021</td>
     <td style="width:80%">Dumbarton Oaks/HMML Armenian Summer Fellowship</td>
   </tr>
   <tr>
