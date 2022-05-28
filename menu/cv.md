@@ -7,8 +7,8 @@ title: ""
 
 <table style="width:100%">
 <tr>
-    <td style= "vertical-align:top">2020—2022</td>
-    <td>Visiting Professor, Institute for the Study of Ancient Civilizations (IHAC), Northeast Normal University, Changchun, China</td>
+    <td style= "vertical-align:top">2021—</td>
+    <td>Visiting Professor, Institute for the History of Ancient Civilizations (IHAC), Northeast Normal University (Changchun, China)</td>
   </tr>  <tr>
     <td style= "vertical-align:top">2020—2022</td>
     <td>Research Fellow, Institute for Christian Oritneal Research (ICOR), Catholic University of America</td>
@@ -21,7 +21,7 @@ title: ""
     <td>Webmaster, 2019 SPBS Spring Symposium, Cambridge</td>
   </tr>
   <tr>
-    <td style="width:20%; vertical-align:top">2017—2019</td>
+    <td style="width:20%; vertical-align:top">2017—2018</td>
     <td style="width:80%">Adjunct Lecturer, George Mason University</td>
   </tr>
   <tr>
