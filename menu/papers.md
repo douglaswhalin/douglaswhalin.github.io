@@ -14,7 +14,7 @@ title: Publications
 <br/>'[Bede and the Syriac Chroniclers: Interactions of Subject and Genere in Contemporaneous Historiography]({{ site.url }}/assets/pdf/WhalinMedievalChronicleX.pdf),' in Ilya Afanasyev, Juliana Dresvina and Erik Kooper, eds., <i>The Medieval Chronicle X</i>. Brill: 2016, pp. 203-221.
 
 <h2>Reviews</h2>
-'[Sadi Maréchal. Public baths and bathing habits in late antiquity: a study of the evidence from Italy, North Africa and Palestine A.D. 285-700. (Leiden; Boston: Brill, 2020.)][https://bmcr.brynmawr.edu/2021/2021.06.36/]' <i>Bryn Mawr Classical Review</i> 2021.06.36.
+'[Sadi Maréchal. Public baths and bathing habits in late antiquity: a study of the evidence from Italy, North Africa and Palestine A.D. 285-700. (Leiden; Boston: Brill, 2020.)][https://bmcr.brynmawr.edu/2021/2021.06.36.html]' <i>Bryn Mawr Classical Review</i> 2021.06.36.
 <br>
 <br/>'[David Frendo and Athanasios Fotiou. John Kaminiates: The Capture of Thessaloniki: Translation, Introduction and Notes. Byzantina Australiensia 12. (Leiden; Boston: Brill, 2017).](http://bmcr.brynmawr.edu/2018/2018-06-36.html)', <i>Bryn Mawr Classical Review</i> 2018.06.36.
 <br>
