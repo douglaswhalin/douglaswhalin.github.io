@@ -2,7 +2,7 @@
 layout: post
 title: "Realism in Hagiography Workshop Announcement"
 author: "DC Whalin"
-tags: [Workshop, University of Cologne, hagiography, realism]
+tags: [Workshop, University of Cologne, Erich Auerbach Institute, hagiography, realism]
 image: WS_Realism_Infoscreen.jpg
 ---
 
