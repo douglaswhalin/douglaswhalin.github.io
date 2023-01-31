@@ -3,7 +3,6 @@ layout: post
 title: "6th International Byzantine Seminar in IHAC"
 author: "DC Whalin"
 tags: [Seminar, Institute for the History of Ancient Civilizations (IHAC), Northeat Normal University (NENU)]
-image: 2022ByzantineSeminar.jpg
 ---
 
 A new academic year, a new seminar series! This year I will again co-host the Byzantine seminar series as part of being a Visiting Professor for the Institute for the History of Ancient Civilization (IHAC) at Northeast Normal University (NENU), Changchun, Peope’s Republic of China. The event is organized in collaboration with the Department of Byzantine and Modern Greek Studies at the University of Cologne and the Department of Historical and Classical Studies at the Norwegian University of Science and Technology in Trondheim. This year we will feature four speakers presenting on the topic of ‘Realism in hagiography.’
