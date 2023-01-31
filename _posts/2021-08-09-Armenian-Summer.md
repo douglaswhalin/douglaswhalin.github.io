@@ -5,7 +5,7 @@ author: "DC Whalin"
 tags: [Armenian, Dumbarton Oaks, HMML]
 ---
 
-In July 2021 I again had the pleasure to attend an intensive language program, this time in Armenian, co-hosted by the [Hill Manuscript Museum and Library] (http://hmml.org/) and the [Dumbarton Oaks Research Library] (https://www.doaks.org/research/byzantine). The program was originally scheduled to be held in-person in Collegeville, Minnesota in July 2020. The course was rescheduled to this year, and although it unfortunately had to be held virtually at least we were able to persevere!
+In July 2021 I again had the pleasure to attend an intensive language program, this time in Armenian, co-hosted by the [Hill Manuscript Museum and Library](http://hmml.org/) and the [Dumbarton Oaks Research Library](https://www.doaks.org/research/byzantine). The program was originally scheduled to be held in-person in Collegeville, Minnesota in July 2020. The course was rescheduled to this year, and although it unfortunately had to be held virtually at least we were able to persevere!
 
 Drs. Jesse Arlen and Abraham Terian co-taught the four-week course, based principally on Robert Thomsons’ *An Introduction to Classical Armenian* second edition, with lots of supplementary resources. They covered the basics of the language, practice reading various Armenian fonts, training in the use of specialist resources used by people who read and translate medieval Armenian literature, as well as an overview of the study of Armenian source materials.
 
