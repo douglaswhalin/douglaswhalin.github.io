@@ -3,7 +3,7 @@ layout: post
 title: "‘Pagan’ classics, Christians, and a Late Antique world-mountain"
 author: "DC Whalin"
 tags: [Late Antiquity, Landscape, Mountains, Classical reception]
-image: Kosmas2.jpg
+image: 2021ByzantineSeminar.jpg
 ---
 
 *The following appeared as a [guest-post](https://mountains.wp.st-andrews.ac.uk/2020/03/26/pagan-classics-christians-and-a-late-antique-world-mountain/) for the [**Mountains in the Classical Tradition Blog**](http://mountains.wp.st-andrews.ac.uk/), part of a Leverhulme-supported research project by [Jason König](https://www.st-andrews.ac.uk/classics/people/jpk3/) and [Dawn Hollis](https://www.st-andrews.ac.uk/classics/people/dljw/), members of the School of Classics at the University of St Andrews. My thanks to both of them for the opportunity to share a bit of Late Antiquity with a wider audience.*
