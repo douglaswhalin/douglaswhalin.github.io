@@ -5,10 +5,9 @@ author: "DC Whalin"
 tags: [PICERAN, Nikon tou Mauroreitou, Antioch, prosopography, digital humanities]
 image:
 ---
+This is the first blog post of a project titled the "The Prosopography of the Imperial Church of the Empire of the Romans in Antioch during the time of Nikon of the Black Mountain, circa AD 950-1100" (PICERAN, ID # 101208459). The project is a Marie Skłodowska-Curie Action (Horizon-MSCA), based at the University of Cologne, lasting twenty-four months from April 2026 through March 2028.
 
-<i>This is the first of a series of blog posts appearing as part of a project titled "The Prosopography of the Imperial Church of the Empire of the Romans in Antioch during the time of Nikon of the Black Mountain, circa AD 950-1100" (PICERAN). The project is a Marie Skłodowska-Curie Action (Horizon-MSCA), Project ID 101208459, hosted by the Institute for Byzantine and Modern Greek Studies of the Department of Classics at the University of Cologne, and is funded by the European Union 🇪🇺. The project runs from 2026 April 1 through 2028 March 31. These blog posts, like all other content on my website, are made open access under a CC-BY-SA-4.0 license.</i>
-
-There’s a lot of ground I’ll have to cover in these blog posts, but it seems sensible to me to begin with a bit of housekeeping. For this post, I’ll limit myself to an overview of the project itself, covering the research topic as well as training aspects.
+While I will have a lot of ground I hope to cover over the course of these posts, it seems sensible to me to begin with a bit of housekeeping. What is this project, why am I doing it, and what will the results be? For this first post, I’ll limit myself to an overview of the project itself, covering the research topic as well as training aspects. I will aim to keep the external project links at the bottom of the post updated throughout its duration.
 
 ## PICERAN project overview
 
@@ -39,3 +38,5 @@ However, the prosopographical MRA dataset will comprise more than just the data 
 - Christian Hannick, *Das Taktikon des Nikon vom schwarzen Berge: griechischer Text und kirchenslavische Übersetzung des 14. Jahrhunderts*, with Peter Plank and Irénée Doens, 2 vols., Monumenta Linguae Slavicae, LXII (Weiher, 2014).
 - Klaus-Peter Todt, *Dukat und griechisch-orthodoxes Patriarchat von Antiocheia in mittelbyzantinischer Zeit (969–1084)*. Mainzer Veröffentlichungen zur Byzantinistik, 14. (Wiesbaden, Harrassowitz 2020).
 - Andrea U. De Giorgi (ed.), *Antioch on the Orontes. History, Society, Ecology, and Visual Culture*. (Cambridge/New York: Cambridge University Press 2024).
+
+<i>This and other blog posts in the series is part of a project titled "The Prosopography of the Imperial Church of the Empire of the Romans in Antioch during the time of Nikon of the Black Mountain, circa AD 950-1100" (PICERAN). The project is a Marie Skłodowska-Curie Action (Horizon-MSCA), Project ID 101208459, hosted by the Institute for Byzantine and Modern Greek Studies of the Department of Classics at the University of Cologne, and is funded by the European Union 🇪🇺. The project runs from 2026 April 1 through 2028 March 31. These blog posts, like all other content on my website, are open access under a CC-BY-SA-4.0 license.</i>
