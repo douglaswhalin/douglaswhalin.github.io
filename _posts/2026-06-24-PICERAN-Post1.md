@@ -3,7 +3,7 @@ layout: post
 title: "PICERAN Post 1: introducing the project"
 author: "DC Whalin"
 tags: [PICERAN, Nikon tou Mauroreitou, Antioch, prosopography, digital humanities]
-image: Kosmas2.jpg
+image:
 ---
 
 <i>This is the first of a series of blog posts appearing as part of a project titled "The Prosopography of the Imperial Church of the Empire of the Romans in Antioch during the time of Nikon of the Black Mountain, circa AD 950-1100" (PICERAN). The project is a Marie Skłodowska-Curie Action (Horizon-MSCA), Project ID 101208459, hosted by the Institute for Byzantine and Modern Greek Studies of the Department of Classics at the University of Cologne, and is funded by the European Union 🇪🇺. The project runs from 2026 April 1 through 2028 March 31. These blog posts, like all other content on my website, are made open access under a CC-BY-SA-4.0 license.</i>
