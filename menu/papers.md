@@ -7,8 +7,18 @@ title: Publications
 Whalin, D. (2020): <i>Roman Identity from the Arab Conquests to the Triumph of Orthodoxy</i>. New Approaches to Byzantine History and Culture. Palgrave Macmillan. 315 pp.
 https://doi.org/10.1007/978-3-030-60906-1
 
+<h2>Co-Edited Volume</h2>
+Sode C. and Whalin D., eds. (forthcoming): <i>Realism and Hagiography</i>. Journal of Ancient History Supplemental Series. Journal of Ancient History: 335 pp.
+
 <h2>Peer-Reviewed Articles and Chapters</h2>
-Whalin, D. (2021): “Mountains and the holy in Late Antiquity,” in Dawn Hollis, Jason König, eds. <i>Mountain Dialogues from Antiquity to Modernity</i>. Bloomsbury: 89-107.
+Whalin, D. (forthcoming): "Miraculous realist landscape in Late Antique Syria," in C. Sode and D. Whalin, eds. <i>Realism in Hagiography</i>. Journal of Ancient History Supplemental Series. Journal of Ancient History: 71-96.
+<br>
+<br>Sode C. and Whalin D. (forthcoming): "Introduction," in C. Sode and D. Whalin, eds. <i>Realism in Hagiography</i>. Journal of Ancient History Supplemental Series. Journal of Ancient History: 1-24.
+<br>
+<br>Whalin, D. (2026): "Talisman or conduit? Beliefs about statuary and miracles," in R. Denson and C. Spence, eds. <i>The Christian and the Supernatural in Late Antiquity</i>. Trivent Publishing: 241-274.
+https://doi.org/10.22618/TP.CSLA.2026.388
+<br>
+<br>Whalin, D. (2021): “Mountains and the holy in Late Antiquity,” in Dawn Hollis, Jason König, eds. <i>Mountain Dialogues from Antiquity to Modernity</i>. Bloomsbury: 89-107.
 https://doi.org/10.5040/9781350162853.ch-005
 <br>
 <br>Whalin, D. (2019): “A note reconsidering the message of Heraclius’ silver hexagram, circa AD 615,” <i>Byzantinische Zeitschrift</i> 112/1: 221-232.
@@ -35,13 +45,3 @@ https://doi.org/10.14296/rih/2014/1660
 
 <h2>Encyclopedia Entries</h2>
 Whalin, D. (2016): “Conquest of Jerusalem by the Sassanians (614);” “Muslim invasion of Egypt (641) and the creation of the Coptic Church;” and “Sixth Ecumenical Council (680-681),” in Holt and Curta, eds. <i>Great Events in Religion: An Encyclopedia of Pivotal Events in Religious History</i>. 2 Vols. Santa Barbara CA: ABC-CLIO Greenwood. Vol. 2 pp. 340-342; 355-358; 374-376.
-
-<h2>Accepted for publication</h2>
-Whalin, D. (forthcoming 2026) “Talisman or conduit? Beliefs about statuary and miracles,” in R. Denson and C. Spence, eds. <i>The Christian and the Supernatural in Late Antiquity</i>. Budapest: Trivent Publishing, 43 pp.
-<br>
-<br>Sode, C. and Whalin, D. eds. (forthcoming 2026) <i>Realism and Hagiography</i>. Journal of Ancient History Supplemental Series.
-<br>
-<br>Sode C. and Whalin, D. “Introduction,” idem. 15 pp.
-<br>
-<br>Whalin, D. “Miraculous realist landscape in Late Antique Syria,” idem, 32 pp.
-
